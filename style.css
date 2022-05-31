@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color:rgba(230, 230, 230, 1);
+    color: rgba(0, 86, 119, 1);
+    justify-content: center;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+#imagen{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.titulo{
+margin-top: 0px;
+}
+
+h1 {background-color: rgba(196, 196, 196, 1);
+    text-align: center;
+    width: 100%;
+}
+
+section{
+    height: 50px;
+}
+
+h2{ background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding-left: 10px;
+}   
+
+.datos p{
+    font-style: italic;
+}
+
+p { display: inline;
+    font-weight: bold;
+    margin-right: 20px;
+
+}
+
+footer{
+    background-color: rgba(0, 86, 119, 1);
+    color: white;
+    padding-bottom: 0px;
+}
+
+footer div{
+    align-items: center;
+    max-height: 37px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
